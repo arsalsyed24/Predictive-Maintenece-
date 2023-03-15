@@ -1,7 +1,7 @@
 # Predictive-Maintenece
 
 <p align="center">
-  <img width="1000" height="600" src="https://github.com/arsalsyed24/Predictive-Maintenece-/blob/main/images/Bearning-Test-bed.png">
+  <img width="800" height="600" src="https://github.com/arsalsyed24/Predictive-Maintenece-/blob/main/images/Bearning-Test-bed.png">
 </p>
 
 
