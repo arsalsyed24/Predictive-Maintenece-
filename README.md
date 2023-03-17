@@ -1,4 +1,4 @@
-# Predictive-Maintenece
+# Predictive-Maintenece (RUL Prediction)
 ## Experimental Setup 
 
 <p align="center">
