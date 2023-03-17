@@ -7,7 +7,7 @@
 
 
 
-- XJTSU - Dataset
+- XJTU - Dataset
 
 ## Dataset Detail Description 
 https://biaowang.tech/xjtu-sy-bearing-datasets/
