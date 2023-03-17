@@ -9,6 +9,9 @@
 
 - XJTSU - Dataset
 
+## Dataset Detail Description 
+https://biaowang.tech/xjtu-sy-bearing-datasets/
+
 The datasets contain complete run-to-failure data of 15 rolling element bearings that were acquired by conducting many accelerated degradation experiments
 
 ⇓ Google Drive:
